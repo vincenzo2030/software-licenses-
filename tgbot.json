@@ -1,0 +1,35 @@
+{
+  "lifetimeleang": {
+    "customer-name": "User1",
+    "processor_id": "8FE8FBF800A0BF1",
+    "serial_number": "000000000",
+    "trial": false,
+    "billing-date": "2025-09-05",
+    "next-billing-date": "2025-09-05",
+    "universal-license": true,
+    "lifetime": true,
+    "valid": true
+  },
+  "trial123456": {
+    "customer-name": "TrialUser",
+    "processor_id": "ABC123DEF456",
+    "serial_number": "111111111",
+    "trial": true,
+    "billing-date": "2025-11-01",
+    "next-billing-date": "2025-12-01",
+    "universal-license": false,
+    "lifetime": false,
+    "valid": true
+  },
+  "premium789": {
+    "customer-name": "PremiumUser",
+    "processor_id": "XYZ789GHI012",
+    "serial_number": "222222222",
+    "trial": false,
+    "billing-date": "2025-10-15",
+    "next-billing-date": "2026-10-15",
+    "universal-license": true,
+    "lifetime": false,
+    "valid": true
+  }
+}
