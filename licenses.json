@@ -1,0 +1,35 @@
+{
+    "EXAMPLE_LIFETIME_001": {
+        "customer-name": "Example Customer",
+        "processor_id": "8FE8FBF0008B671",
+        "serial_number": "LIFETIME-001",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": false,
+        "lifetime": true,
+        "valid": true
+    },
+    "EXAMPLE_TRIAL_002": {
+        "customer-name": "Trial User",
+        "processor_id": "ANOTHER_PROCESSOR_ID",
+        "serial_number": "TRIAL-002",
+        "trial": true,
+        "billing-date": "2025-11-01",
+        "next-billing-date": "2025-12-01",
+        "universal-license": false,
+        "lifetime": false,
+        "valid": true
+    },
+    "TEST_1C7AAA60": {
+        "customer-name": "Test User (This Computer)",
+        "processor_id": "1C7AAA6004EF2B7F2A94B22B9A36D0DA",
+        "serial_number": "TEST-1C7AAA",
+        "trial": true,
+        "billing-date": "2025-11-23",
+        "next-billing-date": "2025-12-23",
+        "universal-license": false,
+        "lifetime": false,
+        "valid": true
+    }
+}
